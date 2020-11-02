@@ -22,7 +22,7 @@ int main()
         file.open("enemyships.shp", ios_base::binary);
     }
 
-    int count;
+    int count = 0;
     int weaponCount;
     int timesOpened = 1;
 
